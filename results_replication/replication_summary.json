@@ -1,0 +1,20 @@
+{
+  "ferretti": {
+    "n_subjects": 44,
+    "site_contribution_pct": {
+      "stool": 41.839933416310295,
+      "oralcavity": 58.160066583689705
+    },
+    "permutation_p_value": 0.89
+  },
+  "brito": {
+    "n_subjects": 140,
+    "label_used": "gender",
+    "target_value": "female",
+    "site_contribution_pct": {
+      "stool": 39.401537353843366,
+      "oralcavity": 60.59846264615665
+    },
+    "permutation_p_value": 0.0
+  }
+}
