@@ -83,7 +83,7 @@ result.plot()
 
 If you use this tool, please cite:
 
-> Ruthbah, C.A., Sadi, T.H., Jahan, N.E.S., & Adib, A.N.M.T. (2026). Interpretable Machine Learning Reveals Complementary Age-Related Signatures in the Oral and Gut Microbiome. *bioRxiv*. https://doi.org/10.1101/BIORXIV/2026/750358
+> Ruthbah, C.A., Sadi, T.H., Jahan, N.E.S., & Adib, A.N.M.T. (2026). Interpretable Machine Learning Reveals Complementary Age-Related Signatures in the Oral and Gut Microbiome. *bioRxiv*. [https://doi.org/10.1101/BIORXIV/2026/750358](https://doi.org/10.64898/2026.09.09.750358)
 
 ## License
 
